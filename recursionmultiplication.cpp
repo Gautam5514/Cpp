@@ -13,6 +13,6 @@ void f(int num, int k)
 }
 int main()
 {
-    f(8 , 3);
+    f(5 , 9);
     return 0;
 }
