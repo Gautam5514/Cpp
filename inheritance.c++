@@ -17,7 +17,7 @@ class Child1: public Parent{
 class Child2: public Parent{
     // x will be private
     // y will be private
-    // z will be inaccessible
+    // z will be inaccessible+
 };
 class Child3: public Parent{
     // x will be protected
